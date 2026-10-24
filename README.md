@@ -23,3 +23,10 @@ Share the production URL, not the preview URL. With Vercel's default settings, p
 - Photo in colour instead of black and white: in the `<style>` block at the top of `public/index.html`, change `--photo-filter` to `none`
 - Resume: replace `public/assets/Rishab_Advani_Resume.pdf` and keep the file name. The PDF is publicly downloadable once deployed, so check what it contains (it includes a phone number). To remove it, delete the file and the "Resume (PDF)" link near the end of `index.html`.
 - Fonts (Newsreader and Instrument Sans) load from Google Fonts.
+
+## For AI agents and search engines
+
+- `public/llms.txt`: a short Markdown summary of the portfolio with links, following the llmstxt.org format. Served at `/llms.txt`.
+- `public/llms-full.txt`: the whole page as plain Markdown, linked from `llms.txt`.
+- `public/robots.txt` and `public/sitemap.xml`: let crawlers in and point them to the page.
+- When you change the text on the page, update `llms.txt` and `llms-full.txt` to match.

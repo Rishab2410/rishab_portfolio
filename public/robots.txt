@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# LLM-readable summary of this portfolio: https://rishab-advani.vercel.app/llms.txt
+Sitemap: https://rishab-advani.vercel.app/sitemap.xml

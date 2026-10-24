@@ -1,0 +1,37 @@
+# Rishab Advani
+
+> Rishab Advani works in growth and strategy. He has seven-plus years in enterprise SaaS, strategy execution and client management at BMC Software, and built two ventures from zero before that. He is now at Masters' Union (PGP in Technology & Business Management, Gurgaon), where he co-founded RecoveryCo and took it to ₹5.5M in orders in three months.
+
+Key facts:
+
+- 7+ years in SaaS and client management, around BMC Software's enterprise ITSM products (Associate Product Developer, 2021 to 2026, Pune; earlier through Manpower Group, 2019 to 2021)
+- $3M in SaaS upsell revenue at BMC, from product demos and requirement gathering for on-prem clients
+- ₹1 Cr+ in revenue built from zero at Hawk-Eye Aerial, a drone-video company he co-founded
+- ₹5.5M in orders in three months at RecoveryCo, at a 7.0 average ROAS and a 41% EBITDA margin
+- Strengths: go-to-market and pricing strategy, root cause analysis, stakeholder and escalation management, process automation, data-driven decision making
+- Currently studying in Gurgaon (Masters' Union); earlier work in Pune
+- Contact: rishab.advani2027@mastersunion.org (email is the quickest way to reach him)
+
+## Portfolio
+
+- [Portfolio home](https://rishab-advani.vercel.app/): one-page portfolio with five case studies, other results, background, education and skills
+- [Full portfolio as Markdown](https://rishab-advani.vercel.app/llms-full.txt): every case study, result and skill on the site in plain text
+
+## Case studies
+
+- [RecoveryCo: ₹5.5M in orders in three months](https://rishab-advani.vercel.app/#recoveryco): co-founded dropshipping store at Masters' Union (Jul to Sep 2026). Owned go-to-market and pricing; 41% EBITDA margin on ₹16.6L processed revenue, 7.0 average ROAS, return-to-origin cut from 40% to 24%
+- [BMC Software: client sign-off cut by 70% with one migration utility](https://rishab-advani.vercel.app/#migration): analysed 100+ Jira tickets, automated 90+ data checks into one utility, raised monthly SaaS migrations 33%, drove $3M in SaaS upsell revenue
+- [BMC Software: weekly escalations cut from 25 to under 10](https://rishab-advani.vercel.app/#escalations): root-cause fixes, retained a ~$15M credit-card client with a PCI-masking plugin, supported 25+ enterprise accounts, go-to security SME for the Helix platform
+- [Hawk-Eye Aerial: a drone-video business built to ₹1 Cr+](https://rishab-advani.vercel.app/#hawk-eye): co-founder (Dec 2015 to Jul 2017). Opened 30+ B2B accounts by cold calls and LinkedIn InMail, retained 30% of accounts, led a 3-member team
+- [Shoperbucks: zero to ₹70 lakh a month](https://rishab-advani.vercel.app/#shoperbucks): business consultant for an online marketplace (Jan 2015 to Jul 2017). Pricing strategy grew revenue to ₹70L a month; sale events on Snapdeal and Amazon lifted conversion 2.5x
+
+## Contact
+
+- [Email](mailto:rishab.advani2027@mastersunion.org): rishab.advani2027@mastersunion.org
+- [LinkedIn](https://www.linkedin.com/in/rishabadvani/): professional profile
+- [Resume (PDF)](https://rishab-advani.vercel.app/assets/Rishab_Advani_Resume.pdf): full timeline
+
+## Optional
+
+- [Other results](https://rishab-advani.vercel.app/#results): six smaller wins at BMC Software and Manpower Group, such as 80% faster design workflows from AI agents and 50%+ lower vulnerability scores
+- [About, education and skills](https://rishab-advani.vercel.app/#about): background story, education, certifications, recognition and the full skills list

@@ -1,0 +1,171 @@
+# Rishab Advani
+
+> Growth and strategy. Seven-plus years in enterprise SaaS, strategy execution and client management, after building two ventures from zero. Now at Masters' Union, where RecoveryCo reached ₹5.5M in orders in three months.
+
+This is the full text of Rishab Advani's portfolio, https://rishab-advani.vercel.app/, in Markdown. A shorter index is at https://rishab-advani.vercel.app/llms.txt.
+
+- Email: rishab.advani2027@mastersunion.org (the quickest way to reach him)
+- LinkedIn: https://www.linkedin.com/in/rishabadvani/
+- Resume (PDF): https://rishab-advani.vercel.app/assets/Rishab_Advani_Resume.pdf
+
+## Headline numbers
+
+- 7+ years in SaaS and client management
+- $3M SaaS upsell revenue at BMC Software
+- ₹1 Cr+ revenue built from zero
+
+Organisations: BMC Software, Manpower Group, Masters' Union, Hawk-Eye Aerial, Shoperbucks, RecoveryCo.
+
+## Case studies
+
+Five projects, and the numbers they moved.
+
+### RecoveryCo: ₹5.5M in orders in three months
+
+Growth & go-to-market. Co-founder, Jul to Sep 2026, Gurgaon.
+
+A dropshipping store he co-founded for the Dropshipping Challenge at Masters' Union, run across 4 sales channels. He owned go-to-market and pricing strategy, and designed and built the Shopify storefront with input validation checks.
+
+Results:
+
+- ₹5.5M in orders in 3 months
+- 41% EBITDA margin on ₹16.6L of processed revenue
+- 7.0 average ROAS
+- 24% return-to-origin rate, down from 40%
+
+What he did:
+
+- Ran the numbers weekly. A weekly P&L tracked COGS, logistics and ad spend: a 41% EBITDA margin, with 77% gross and 42% contribution margins protected.
+- Targeted by behaviour. Customer segments built on consumer behaviour and shopping habits delivered a 7.0 average ROAS.
+- Cut funnel friction. Better content, payment offers and customer feedback lifted click-through rate to 1.9%.
+- Fixed returns. Data-driven pincode hygiene and automated order verification cut return-to-origin (RTO) from 40% to 24%.
+
+Tools and methods: Shopify, weekly P&L, pincode hygiene analysis, order verification automation, ROAS and CTR optimisation.
+
+### BMC Software: client sign-off cut by 70% with one migration utility
+
+Business analytics & process efficiency. Associate Product Developer, BMC Software, 2021 to 2026, Pune.
+
+Moving clients from on-prem to SaaS meant 90+ data checks before sign-off, and post-migration data discrepancy was their biggest complaint. He worked on BMC's enterprise SaaS (ITSM) products and went after that problem.
+
+Results:
+
+- 70% less client sign-off time
+- 33% more monthly SaaS migrations
+- 90+ data checks automated into one utility
+- $3M in SaaS upsell revenue
+
+What he did:
+
+- Found the real problem. Analysing 100+ Jira tickets pinpointed post-migration data discrepancy as the number one client pain point.
+- Automated the fix. Rolled 90+ data checks into one utility, cutting client sign-off time by 70%.
+- Standardised onboarding. Running every client through the same utility raised monthly SaaS migrations by 33%.
+- Drove the upsell. Led product demos and requirement gathering for on-prem clients, driving $3M in SaaS upsell revenue.
+
+Tools and methods: Jira ticket analysis, migration utility, data validation, product demos, requirement gathering.
+
+### BMC Software: weekly escalations cut from 25 to under 10
+
+Stakeholder management & problem solving. Associate Product Developer, BMC Software, 2021 to 2026, Pune.
+
+Weekly customer escalations stood at 25, and enterprise accounts needed technical queries resolved alongside their Account Managers. He diagnosed issues from logs, fixed root causes in code, and became the team's security go-to.
+
+Results:
+
+- Under 10 customer escalations a week, down from 25
+- ~$15M credit-card client retained
+- 25+ enterprise accounts supported
+
+What he did:
+
+- Went to root cause. Log analysis, root-cause analysis and code fixes took weekly escalations from 25 to under 10.
+- Retained a ~$15M client. Owned end-to-end delivery of a deal-breaker PCI-masking plugin for a credit-card client.
+- Backed Account Managers. Resolved technical queries to support customer success across 25+ enterprise accounts.
+- Became the security go-to. As go-to security SME for the Helix platform, represented the team in weekly security reviews with ELT.
+
+Tools and methods: log analysis, root cause analysis, code fixes, PCI masking, security reviews.
+
+### Hawk-Eye Aerial: a drone-video business built to ₹1 Cr+
+
+Entrepreneurship & B2B sales. Co-founder, Dec 2015 to Jul 2017, Pune.
+
+An aerial video production company registered under MACFOS Enterprises, started during his engineering degree. He owned the full sales, delivery and service cycle and led a 3-member team.
+
+Results:
+
+- ₹1 Cr+ revenue, built from zero, profitably
+- 30+ B2B accounts across four industries
+- 30% of accounts retained
+
+What he did:
+
+- Opened accounts by hand. Cold calls and LinkedIn InMail opened 30+ B2B accounts across real estate, events, agriculture and tourism.
+- Owned the whole cycle. Took the venture from 0 to ₹1 Cr revenue profitably by owning sales, delivery and service.
+- Kept clients after delivery. Managing expectations, post-delivery iterations and after-sales service retained 30% of accounts.
+- Led the crew. Led a 3-member team of drone pilots, video editors and ground staff for seamless operations.
+
+Tools and methods: cold calling, LinkedIn InMail, post-delivery iterations, after-sales service.
+
+### Shoperbucks: zero to ₹70 lakh a month
+
+E-commerce growth & pricing. Business Consultant, Jan 2015 to Jul 2017, Pune.
+
+An online marketplace enterprise dealing in electronics, clothing and accessories. He worked as its Business Consultant on pricing, promotions and operations.
+
+Results:
+
+- ₹70L revenue a month at its peak, up from zero
+- 2.5x conversion lift from sale events and promotions
+
+What he did:
+
+- Priced against the market. Competitive benchmarking and pricing strategy across channels grew revenue from zero to ₹70L a month.
+- Timed the demand. Sale events, festive promotions and deal days on Snapdeal and Amazon lifted conversion 2.5x.
+- Made it scale. Streamlined order processing, procurement and stock management to enable operational scale.
+
+Tools and methods: competitive benchmarking, pricing strategy, Snapdeal and Amazon sale events, order and stock management.
+
+## Other results
+
+Also delivered, each with its own number.
+
+- 80% faster design workflows (BMC Software): AI agents linking Jira, GitHub and Xwiki through Cursor's MCP sped up design workflows.
+- 20% lower bug count per release (BMC Software): led a 3-member team to meet quality certification goals.
+- 50%+ lower vulnerability scores (BMC Software): delivered a complex migration with negligible regressions.
+- 50% faster team ramp-up (BMC Software): product deep-dives brought 4 new joiners to full productivity.
+- 90% lower active bug count (Manpower Group, client BMC Software): prioritised the Jira backlog and shipped fixes to improve product stability, and resolved 100+ security issues every quarterly release.
+- $25K a year saved on EOL support (Manpower Group, client BMC Software): replaced outdated libraries with open-source alternatives.
+
+## About
+
+From cold calls to executive reviews.
+
+Before enterprise software, he built two ventures in Pune: an aerial video company that reached ₹1 Cr+ in revenue, and an online marketplace business that grew to a peak of ₹70 lakh a month.
+
+Then came seven-plus years around BMC Software's products, first through Manpower Group (Jan 2019 to Mar 2021) and then as an Associate Product Developer (Jul 2021 to May 2026). He automated migration data checks, cut weekly escalations from 25 to under 10, and became the go-to security SME for the Helix platform, representing the team in weekly security reviews with ELT.
+
+Now he is at Masters' Union, studying Technology & Business Management and serving as a Core Member of the CommerceX Club. There he co-founded RecoveryCo, took it to ₹5.5M in orders in three months, and won the Consulting Casino case challenge.
+
+## Education
+
+- Masters' Union: PGP in Technology & Business Management, 2026 to present, Gurgaon. Core Member of the CommerceX Club.
+- University of Pune: Bachelor of Engineering, Computer Science, 2013 to 2018.
+- Jai Hind High School & Junior College: 2010 to 2013. Best in Computers awardee.
+
+## Certifications
+
+- Career Accelerator Program, Upraised: online product management program mentored by industry practitioners, Nov 2023 to Apr 2024.
+- Diploma in Advanced Computing, CDAC: national-level, 6-month intensive training on advanced computing technologies, Aug 2018 to Feb 2019.
+
+## Recognition
+
+- Winner, Consulting Casino (consulting case challenge)
+- Winner, BMC Internal Cricket Tournament
+- Runner-up, Pune Horlicks Quiz Competition
+- Runner-up, College Debate Competition
+
+## Skills
+
+Business skills: Strategic Thinking, Problem Structuring, Root Cause Analysis, Competitive Benchmarking, Data-Driven Decision Making, GTM Strategy, End-to-End Ownership, Cross-Functional Execution, Stakeholder Management, Escalation Management, Executive Communication, Process Optimization, KPI Tracking, Client Relationship Management, Customer Success.
+
+Technical skills: Vibe Coding, AI Agents, Excel, SQL, Jira, Figma, Git, GitHub, Java, Whimsical.
