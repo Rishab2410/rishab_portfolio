@@ -21,7 +21,7 @@ Share the production URL, not the preview URL. With Vercel's default settings, p
 
 - Text and layout: `public/index.html`
 - Photo in colour instead of black and white: in the `<style>` block at the top of `public/index.html`, change `--photo-filter` to `none`
-- Resume: replace `public/assets/Rishab_Advani_Resume.pdf` and keep the file name. The PDF is publicly downloadable once deployed, so check what it contains (it includes a phone number). To remove it, delete the file and the "Resume (PDF)" link near the end of `index.html`.
+- Resume: the site does not offer a resume download. To add one back, put the PDF in `public/assets/` and link it from the contact section near the end of `index.html`. Anything in `public/` is publicly downloadable, so check what the PDF contains first.
 - Fonts (Newsreader and Instrument Sans) load from Google Fonts.
 
 ## For AI agents and search engines
